@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي نور عيوني
+> في الليالي انت سكوني
+> قلبي ينبض في هواك
+> روحي تسأل عن لقاك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
