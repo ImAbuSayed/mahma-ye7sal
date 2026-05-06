@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 28, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/mahma-ye7sal/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Secure Licensing Rights for Mahma Ye7sal](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
