@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Mahma Ye7sal
+
+This log tracks the cryptographic history and versioning for the song **Mahma Ye7sal** (mahma-ye7sal).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T06:30:25.577941 | `v1` | `d1452ab7f038cda30ad8a3c4532cf18495dfbf43128deb730d0a173cccd87838` | `cd8c64fc1fd78fd6753469478e83257edd194691b2453f742154e92cd4780dd6` | `2026-05-09_mahma-ye7sal-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
